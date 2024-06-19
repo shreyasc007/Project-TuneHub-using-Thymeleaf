@@ -1,0 +1,38 @@
+a:hover ,a:link{
+	color: white;
+	background-color:black;
+	text-decoration: none;
+}
+a{
+	background-color: white;
+	border: solid black 1px;
+	font-size: 25px;
+	padding:22px;
+	
+	color: black;
+	border-radius: 10px;
+	
+}
+
+.anc1{
+	text-align: center;
+	margin-top: 250px;
+	
+	
+}
+
+.anc2{
+	text-align:right;
+	margin-bottom: 100px;
+	
+	
+}
+.main_index{
+	display:grid;
+	justify-content:center;
+	
+ 	
+}
+body{
+	background-color: cornflowerblue;
+}
